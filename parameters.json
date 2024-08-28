@@ -1,0 +1,15 @@
+[
+    {
+      "ParameterKey": "VPCId",
+      "ParameterValue": "vpc-5e6e7539"
+    },
+    {
+      "ParameterKey": "SubnetIds",
+      "ParameterValue": "subnet-34b57f52,subnet-1e866044"
+    },
+    {
+      "ParameterKey": "ImageUri",
+      "ParameterValue": "446147372341.dkr.ecr.us-west-1.amazonaws.com/prime-number-app:latest"
+    }
+  ]
+  
